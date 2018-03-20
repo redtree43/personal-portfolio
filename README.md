@@ -31,8 +31,11 @@ My primary inspiration for my website was the personal portfolio of Ian Enders. 
 My Typography was randomly selected from Google fonts on a whim. I wanted a font that was modern and simple.
 
 # <a id="Wireframes"></a>Style Guide and Wireframes
+I used Figma to do my design and finalise my layout. 
 
+The full figma project can be viewed at the following [link](https://www.figma.com/file/dSr7nw43YcVGs1b5lOilOdgV/Personal-Portfolio) 
 
+![](https://www.rowdyrich.netlify.com/assets/figma_screenshot.png) 
 
 # <a id="Challenges"></a>Challenges
 
