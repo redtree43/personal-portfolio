@@ -16,3 +16,25 @@ My pinterest mood board can be found at this [link](https://www.pinterest.com.au
 
 # <a id="MVP"></a>Minimum Viable Product
 My MVP is a basic website using the Afro-Futurism colour scheme. It is designed to be a supplement for my CV so that employers can find me and easily contact me.
+
+# <a id="Inspiration"></a>Inspiration
+
+## Tagline
+My tagline is "I’m a great believer in luck, and I find the harder I work the more I have of it.” which is a quote by Thomas Jefferson. I also considered "Take time to deliberate; but when the time for action arrives, stop thinking and go in." I am a history buff and wanted to include something related to this in my portfolio.
+
+## Ian Enders
+My primary inspiration for my website was the personal portfolio of Ian Enders. It is a simple, one page design that really catches the eye when you see it. It uses limited content to have more impact with the content available.
+
+![](https://www.ianenders.com)        
+
+## Typography
+My Typography was randomly selected from Google fonts on a whim. I wanted a font that was modern and simple.
+
+# <a id="Wireframes"></a>Style Guide and Wireframes
+
+
+
+# <a id="Challenges"></a>Challenges
+
+
+# <a id="Coding"></a>Coding
