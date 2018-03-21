@@ -1,5 +1,5 @@
 # <a id="top"></a> My Personal Portfolio Project
-## www.rowdyrich.com
+## www.rowdyrich.netlify.com
 
 My personal portfolio is a snapshot into my design sense and coding skills. The portfolio should not be a comprehensive view of everything I have to offer, but should show different avenues an interested party could pursue in discussion with me.
 
