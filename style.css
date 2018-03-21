@@ -11,6 +11,7 @@
 	border-bottom: solid 1px #EFF1F4;
 }
 
+
 /* Links inside the navbar */
 #bigname {
 	color: #C5AE66;
@@ -29,17 +30,11 @@
 	justify-content: space-around;
 }
 
-#quote {
-	padding-top: 60px;
-	font-size: 18px;
-	font-style: italic;
-}
-
 /* Change background on mouse-over */
-.menu a:hover {
-    background: #EFF1F4;
-    color: #EFF1F4;
-}
+/* .menu a:hover {
+    background: #202636;
+    color: black;
+} */
 
 
 body {
@@ -47,6 +42,11 @@ body {
 	text-align: center;
 }
 
+#quote {
+	padding-top: 60px;
+	font-size: 18px;
+	font-style: italic;
+}
 
 h1 {
 	font-family: 'Titillium Web', sans-serif;
@@ -59,7 +59,6 @@ p {
 	color: #C5AE66;
 	font-size: 20px;
 	padding: 0px 500px 0px 500px;
-	min-width: 500px;
 }
 
 /* Style inputs, select elements and textareas */
@@ -73,6 +72,7 @@ input[type=text], select, textarea{
 	background-color: #EFF1F4;
 	resize: vertical;
 	font-family: 'Titillium Web', sans-serif;
+	
   }
   
   /* Style the label to display next to the inputs */
@@ -104,6 +104,20 @@ input[type=text], select, textarea{
 	padding: 20px;
   }
   
+  /* Floating column for labels: 25% width */
+  .col-25 {
+	float: left;
+	width: 25%;
+	margin-top: 6px;
+  }
+  
+  /* Floating column for inputs: 75% width */
+  .col-75 {
+	float: left;
+	width: 75%;
+	margin-top: 6px;
+  }
+  
   /* Clear floats after the columns */
   .row:after {
 	content: "";
@@ -133,3 +147,14 @@ input[type=text], select, textarea{
 	}
   }
 
+.gradient {
+    background: -webkit-repeating-linear-gradient(#5E5F59, #5E5F59 49.9%, #8EB20E 50.1%, #8EB20E 100%);
+		background: -o-repeating-linear-gradient(#5E5F59, #5E5F59 49.9%, #8EB20E 50.1%, #8EB20E 100%);
+		background: -moz-repeating-linear-gradient(#5E5F59, #5E5F59 49.9%, #8EB20E 50.1%, #8EB20E 100%);
+		background: repeating-linear-gradient(#5E5F59, #5E5F59 49.9%, #8EB20E 50.1%, #8EB20E 100%); 
+}
+
+/* font-family: 'Poppins', sans-serif;
+font-family: 'Titillium Web', sans-serif;
+font-family: 'PT Serif', serif;
+font-family: 'Cinzel', serif; */
