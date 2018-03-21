@@ -11,6 +11,8 @@ For my design I went with a barebones structures using a combination of colours 
 - **[Inspiration](#Inspiration)**
 - **[Style Guide and Wireframes](#Wireframes)**
 - **[Challenges](#Challenges)**
+- **[What Went Well](#Well)
+- **[Where From Here](#WhereFromHere)**
 - **[Coding](#Coding)**
 
 
@@ -56,8 +58,20 @@ The full figma project can be viewed at the following [link](https://www.figma.c
 # <a id="Challenges"></a>Challenges
 My biggest challenge was deciding on a layout. I found that finding inspirations for my design was more difficult than actually figuring stuff out in CSS due to the simplicity of my design. I originally had grandiose plans for how my site would look without the technical skills to back it up. 
 
+My original design was going to be heavily reliant on photography which I was unable to take. This was what contributed to my decision to further strip down my design.
+
 One particular challenge was when I tried to do a bottom border line, I accidentally put the attribute values in the wrong order. I figured it out in the end though.
 
+[Back to Top](#top)
+
+# <a id="Well"></a> What Went Well
+My colour choices and font selection was done quickly and is easy to see on the screen while still being soft on the eyes. 
+
+[Back to Top](#top)
+
+
+# <a id="WhereFromHere"></a>Where To From Here
+The site that inspired me the most was ianenders.com and in the future I want to take some good photos of myself and do something like this. I envision my portfolio being primarily about showcasing a bit of my character through the use of photography/writing and my github to be used for seeing my technical abilities.
 
 [Back to Top](#top)
 
