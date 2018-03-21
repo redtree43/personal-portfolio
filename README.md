@@ -6,7 +6,12 @@ My personal portfolio is a snapshot into my design sense and coding skills. The 
 For my design I went with a barebones structures using a combination of colours inspired by afro-futuristic science fiction designs. I have been heavily influenced by comic book art with an emphasis on the strong lines and bright colours used in Image & Marvel comics in the late 2000's.
 
 # Contents
-- **[Mood board] (#MoodBoard)**
+- **[Mood Board](#MoodBoard)**
+- **[Minimum Viable Product](#MVP)**
+- **[Inspiration](#Inspiration)**
+- **[Style Guide and Wireframes](#Wireframes)**
+- **[Challenges](#Challenges)**
+- **[Coding](#Coding)**
 
 
 # <a id="MoodBoard"></a>Mood Board
@@ -14,8 +19,12 @@ My Pintrest mood board is made up of images that I dound through looking up Afro
 
 My pinterest mood board can be found at this [link](https://www.pinterest.com.au/gleesonrj/mood-board/)![]
 
+[Back to Top](#top)
+
 # <a id="MVP"></a>Minimum Viable Product
 My MVP is a basic website using the Afro-Futurism colour scheme. It is designed to be a supplement for my CV so that employers can find me and easily contact me.
+
+[Back to Top](#top)
 
 # <a id="Inspiration"></a>Inspiration
 
@@ -30,14 +39,26 @@ My primary inspiration for my website was the personal portfolio of Ian Enders. 
 ## Typography
 My Typography was randomly selected from Google fonts on a whim. I wanted a font that was modern and simple.
 
+[Back to Top](#top)
+
 # <a id="Wireframes"></a>Style Guide and Wireframes
 I used Figma to do my design and finalise my layout. 
 
 The full figma project can be viewed at the following [link](https://www.figma.com/file/dSr7nw43YcVGs1b5lOilOdgV/Personal-Portfolio) 
 
-![](https://www.rowdyrich.netlify.com/assets/figma_screenshot.png) 
+![](http://rowdyrich.netlify.com/assets/figma_screenshot.png) 
+
+[Back to Top](#top)
 
 # <a id="Challenges"></a>Challenges
+My biggest challenge was deciding on a layout. I had grandiose plans for how my site would look without the technical skills to back it up. I found that finding inspirations for my design was more difficult than actually figuring stuff out in CSS. 
+
+
+[Back to Top](#top)
 
 
 # <a id="Coding"></a>Coding
+
+
+
+[Back to Top](#top)
