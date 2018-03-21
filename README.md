@@ -19,17 +19,20 @@ My Pintrest mood board is made up of images that I dound through looking up Afro
 
 My pinterest mood board can be found at this [link](https://www.pinterest.com.au/gleesonrj/mood-board/)![]
 
+![](http://rowdyrich.netlify.com/assets/mood_board.png)
+
+
 [Back to Top](#top)
 
 # <a id="MVP"></a>Minimum Viable Product
-My MVP is a basic website using the Afro-Futurism colour scheme. It is designed to be a supplement for my CV so that employers can find me and easily contact me.
+My MVP is a basic website using the Afro-Futurism colour scheme. It is designed to be a supplement for my CV so that employers can find me and easily contact me. In the future I will likely do a full rework to be structured around some saucy.
 
 [Back to Top](#top)
 
 # <a id="Inspiration"></a>Inspiration
 
 ## Tagline
-My tagline is "I’m a great believer in luck, and I find the harder I work the more I have of it.” which is a quote by Thomas Jefferson. I also considered "Take time to deliberate; but when the time for action arrives, stop thinking and go in." I am a history buff and wanted to include something related to this in my portfolio.
+My tagline is "I’m a great believer in luck, and I find the harder I work the more I have of it.” which is a quote by Thomas Jefferson. I also considered "Take time to deliberate; but when the time for action arrives, stop thinking and go in." I wnated to include a quote that was based around being a good worker so that employers will think I'm a dedicated employee. And Thomas Jefferson is someone everyone knows who has associations with excellence and achievement.
 
 ## Ian Enders
 My primary inspiration for my website was the personal portfolio of Ian Enders. It is a simple, one page design that really catches the eye when you see it. It uses limited content to have more impact with the content available.
@@ -51,14 +54,16 @@ The full figma project can be viewed at the following [link](https://www.figma.c
 [Back to Top](#top)
 
 # <a id="Challenges"></a>Challenges
-My biggest challenge was deciding on a layout. I had grandiose plans for how my site would look without the technical skills to back it up. I found that finding inspirations for my design was more difficult than actually figuring stuff out in CSS. 
+My biggest challenge was deciding on a layout. I found that finding inspirations for my design was more difficult than actually figuring stuff out in CSS due to the simplicity of my design. I originally had grandiose plans for how my site would look without the technical skills to back it up. 
+
+One particular challenge was when I tried to do a bottom border line, I accidentally put the attribute values in the wrong order. I figured it out in the end though.
 
 
 [Back to Top](#top)
 
 
 # <a id="Coding"></a>Coding
-
+I started coding from the top down based on my design. I did the name and logo first, then the About/Work/Skills, then the form and finally, the icons.  My site is exclusively HTML & CSS.
 
 
 [Back to Top](#top)
