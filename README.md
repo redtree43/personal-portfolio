@@ -34,7 +34,7 @@ My MVP is a basic website using the Afro-Futurism colour scheme. It is designed 
 # <a id="Inspiration"></a>Inspiration
 
 ## Tagline
-My tagline is "I’m a great believer in luck, and I find the harder I work the more I have of it.” which is a quote by Thomas Jefferson. I also considered "Take time to deliberate; but when the time for action arrives, stop thinking and go in." I wnated to include a quote that was based around being a good worker so that employers will think I'm a dedicated employee. And Thomas Jefferson is someone everyone knows who has associations with excellence and achievement.
+My tagline is "I’m a great believer in luck, and I find the harder I work the more I have of it.” which is a quote by Thomas Jefferson. I also considered "Take time to deliberate; but when the time for action arrives, stop thinking and go in." I wanted to include a quote that was based around being a good worker so that employers will think I'm a dedicated employee. And Thomas Jefferson is someone everyone knows who has associations with excellence and achievement.
 
 ## Ian Enders
 My primary inspiration for my website was the personal portfolio of Ian Enders. It is a simple, one page design that really catches the eye when you see it. It uses limited content to have more impact with the content available.
